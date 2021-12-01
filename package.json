@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Small repo to experiment with advent of code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilienbai/advent-of-code-2021.git"
+  },
+  "author": "emilienbai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilienbai/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/emilienbai/advent-of-code-2021#readme"
+}
