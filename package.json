@@ -4,7 +4,9 @@
   "description": "Small repo to experiment with advent of code challenges",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint **/*.js",
+    "lint:fix": "eslint --fix **/*.js"
   },
   "repository": {
     "type": "git",
@@ -14,6 +16,12 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/emilienbai/advent-of-code-2021/issues"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1"
   },
   "homepage": "https://github.com/emilienbai/advent-of-code-2021#readme"
 }
