@@ -18,6 +18,7 @@
     "url": "https://github.com/emilienbai/advent-of-code-2021/issues"
   },
   "devDependencies": {
+    "@types/node": "^16.11.11",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
