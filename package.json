@@ -24,5 +24,8 @@
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.4.1"
   },
-  "homepage": "https://github.com/emilienbai/advent-of-code-2021#readme"
+  "homepage": "https://github.com/emilienbai/advent-of-code-2021#readme",
+  "dependencies": {
+    "js-priority-queue": "^0.1.5"
+  }
 }
